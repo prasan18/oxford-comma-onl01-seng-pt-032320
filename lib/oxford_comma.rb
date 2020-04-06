@@ -13,6 +13,3 @@ def oxford_comma(array)
     end
     return string
   end
-end
-
-end
